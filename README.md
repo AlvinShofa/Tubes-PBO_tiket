@@ -4,10 +4,11 @@
 Tugas besar ini merupakan salah satu syarat penilaian pada mata kuliah **Pemrograman Berorientasi Objek (PBO)**.  
 Proyek ini bertujuan untuk mengimplementasikan konsep OOP ke dalam sebuah aplikasi dengan struktur kode yang rapi, terorganisir, dan sesuai dengan prinsip pemrograman berorientasi objek.  
 
-Aplikasi yang dibuat mencakup:  
-- Perancangan tampilan (UI/UX) agar mudah dipahami pengguna.  
-- Perancangan alur (flow) aplikasi agar sesuai dengan kebutuhan.  
-- Implementasi kode program berdasarkan rancangan yang telah dibuat.  
+### 📝 Ringkasan Fitur  
+Proyek ini memadukan **Java** dengan **database MySQL**, menampilkan antarmuka melalui **Java GUI**, serta menyediakan beberapa fitur utama, yaitu:  
+- **Login & Verifikasi** → mendukung login untuk **user** dan **admin**.  
+- **Registrasi** → memungkinkan pengguna baru untuk membuat akun.  
+- **Pengelolaan Tiket** → menghitung total harga tiket dengan memperhitungkan **pajak, diskon, dan jenis tiket**.  
 
 ## 👥 Anggota Kelompok & Pembagian Tugas  
 Proyek ini dikerjakan oleh 5 anggota dengan pembagian peran sebagai berikut:  
@@ -22,9 +23,10 @@ Proyek ini dikerjakan oleh 5 anggota dengan pembagian peran sebagai berikut:
   Bertanggung jawab dalam pembuatan kode program menggunakan bahasa pemrograman yang dipilih, serta mengintegrasikan hasil rancangan tampilan dan alur menjadi sebuah aplikasi yang berjalan.  
 
 ## ⚙️ Teknologi yang Digunakan  
-- Bahasa Pemrograman: *Java*  
-- Konsep: *Object-Oriented Programming (OOP)*  
-- Tools: IDE (NetBeans/Eclipse/IntelliJ), Git untuk version control  
+- **Bahasa Pemrograman**: Java  
+- **Database**: MySQL  
+- **Konsep**: Object-Oriented Programming (OOP)  
+- **Tools**: IDE (NetBeans/Eclipse/IntelliJ), Git untuk version control  
 
 ## 🎯 Tujuan  
 1. Menerapkan prinsip-prinsip OOP dalam pemrograman.  
